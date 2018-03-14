@@ -21,6 +21,9 @@ class App extends Component {
                 <Link to="/about">
                     <button>Go to About</button>
                 </Link>
+                <Link to="/person">
+                    <button>Go to Person</button>
+                </Link>
             </div>
         )
     }
